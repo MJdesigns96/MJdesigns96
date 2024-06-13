@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Nice to meet you. My name is Marcus and I am currently a web dev student studying to become a developer.
+
+Over the next several months I'll be adding projects and repos that feature some of my work.
+
+If there is anything you'd like to talk to me about feel free to email me.
+
 <!--
 **MJdesigns96/MJdesigns96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
