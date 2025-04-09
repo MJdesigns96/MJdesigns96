@@ -6,7 +6,7 @@ On my github are projects I have done for school and personal projects that I ha
 
 If there is anything you'd like to talk to me about feel free to email me @ 📫[Email](mailto:marcus.jeong96@gmail.com).
 
-<a href="mailto:marcus.jeong96@gmail.com" passHref={true} target="_blank">Email</a>
+<a href="mailto:marcus.jeong96@gmail.com" target="_blank">Email</a>
 
 <!--
 **MJdesigns96/MJdesigns96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
