@@ -4,7 +4,7 @@ Nice to meet you. My name is Marcus and I am currently a full stack web develope
 
 On my github are projects I have done for school and personal projects that I have been working on.
 
-If there is anything you'd like to talk to me about feel free to email me @ 📫 [Email](mailto:marcus.jeong96@gmail.com).
+If there is anything you'd like to talk to me about feel free to email me @ 📫[Email](mailto:marcus.jeong96@gmail.com).
 
 <!--
 **MJdesigns96/MJdesigns96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
