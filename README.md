@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-Nice to meet you. My name is Marcus and I am currently a web dev student studying to become a developer.
+Nice to meet you. My name is Marcus and I am currently a full stack web developer based out of Toronto, Ontario, Canada.
 
-Over the next several months I'll be adding projects and repos that feature some of my work.
+On my github are projects I have done for school and personal projects that I have been working on.
 
-If there is anything you'd like to talk to me about feel free to email me.
+If there is anything you'd like to talk to me about feel free to email me @ 📫marcus.jeong96@gmail.com.
 
 <!--
 **MJdesigns96/MJdesigns96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
